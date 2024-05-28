@@ -1,0 +1,1 @@
+_Tomokord_ is a small, opinionated, but simple mini framework built around [Discord.js](https://discord.js.org/) and heavily inspired by [Sapphire](https://www.sapphirejs.dev/) (in fact it uses some of its components to great use).
