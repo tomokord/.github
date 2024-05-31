@@ -1,1 +1,1 @@
-_Tomokord_ is a small, opinionated, but simple mini framework built around [Discord.js](https://discord.js.org/) and heavily inspired by [Sapphire](https://www.sapphirejs.dev/) (in fact it uses some of its components to great use).
+_Tomokord_ is a CLI tool for quickly creating opinionated, but highly-customizable, boilerplates for [Discord.js](https://discord.js.org/) bot projects as well as aiding in the development.
